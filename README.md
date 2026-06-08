@@ -1,52 +1,60 @@
-HTML Projects Roadmaps 
+CSS Projects Roadmaps 
 
-Proyects: https://roadmap.sh/frontend/projects
-
-<br>
-
-Projects 1: Single-Page-CV
-
-Project: https://roadmap.sh/projects/single-page-cv
-
-Demo: https://byroncarsa.github.io/HTML-Projects/01-Single-Page-CV/
+Proyects: https://roadmap.sh/css/projects
 
 <br>
 
-Projects 2: Basic HTML Website
+Projects 1: Personal Portfolio
 
-Project: https://roadmap.sh/projects/basic-html-website
+Project: https://roadmap.sh/projects/portfolio-website
 
-Demo: https://byroncarsa.github.io/HTML-Projects/02-Basic%20HTML%20Website/
-
-<br>
-
-Projects 3: Pricing Comparison Table
-
-Project: https://roadmap.sh/projects/pricing-comparison-table
-
-Demo: https://byroncarsa.github.io/HTML-Projects/03-Pricing%20Comparison%20Table/
+Demo: 
 
 <br>
 
-Projects 4: Blog Post Page
+Projects 2: Changelog Component
 
-Project: https://roadmap.sh/projects/blog-post-page
+Project: https://roadmap.sh/projects/changelog-component
 
-Demo: https://byroncarsa.github.io/HTML-Projects/04-Blog%20Post%20Page
-
-<br>
-
-Projects 5: Contact Form
-
-Project: https://roadmap.sh/projects/contact-form
-
-Demo: https://byroncarsa.github.io/HTML-Projects/05-Contact%20Form
+Demo: 
 
 <br>
 
-Projects 6: Photo Showcase
+Projects 3: Testimonial Cards
 
-Project: https://roadmap.sh/projects/photo-showcase
+Project: https://roadmap.sh/projects/testimonial-cards
 
-Demo: https://byroncarsa.github.io/HTML-Projects/06-Photo%20Showcase
+Demo: 
+
+<br>
+
+Projects 4: Datepicker UI
+
+Project: https://roadmap.sh/projects/datepicker-ui
+
+Demo: 
+
+<br>
+
+Projects 5: Accessible Form UI
+
+Project: https://roadmap.sh/projects/accessible-form-ui
+
+Demo: 
+
+<br>
+
+Projects 6: Image Grid Layout
+
+Project: https://roadmap.sh/projects/image-grid
+
+Demo: 
+
+<br>
+
+Projects 7: Tooltip UI
+
+Project: https://roadmap.sh/projects/tooltip-ui
+
+Demo: 
 
