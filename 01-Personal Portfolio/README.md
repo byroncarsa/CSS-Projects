@@ -1,12 +1,12 @@
-SINGLE PAGE CV
+Personal Portfolio
 
 Proyect: 
 
-https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/portfolio-website
 
 Demo:
 
-https://byroncarsa.github.io/HTML-Projects/01-Single-Page-CV/
+
 
 
 

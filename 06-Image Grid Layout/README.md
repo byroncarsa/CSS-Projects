@@ -1,12 +1,11 @@
-SINGLE PAGE CV
+Image Grid Layout
 
 Proyect: 
 
-https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/image-grid
 
 Demo:
 
-https://byroncarsa.github.io/HTML-Projects/01-Single-Page-CV/
 
 
 

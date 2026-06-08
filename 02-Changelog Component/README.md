@@ -1,12 +1,11 @@
-SINGLE PAGE CV
+Changelog Component
 
 Proyect: 
 
-https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/changelog-component
 
 Demo:
 
-https://byroncarsa.github.io/HTML-Projects/01-Single-Page-CV/
 
 
 

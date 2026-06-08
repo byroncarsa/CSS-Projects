@@ -1,12 +1,11 @@
-SINGLE PAGE CV
+Datepicker UI
 
 Proyect: 
 
-https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/datepicker-ui
 
 Demo:
 
-https://byroncarsa.github.io/HTML-Projects/01-Single-Page-CV/
 
 
 

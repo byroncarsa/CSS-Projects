@@ -1,8 +1,8 @@
-SINGLE PAGE CV
+Testimonial Cards
 
 Proyect: 
 
-https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/testimonial-cards
 
 Demo:
 
